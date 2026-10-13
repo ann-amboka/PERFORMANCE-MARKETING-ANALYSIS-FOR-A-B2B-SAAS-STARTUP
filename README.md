@@ -234,4 +234,4 @@ Ann Amboka Amukasah
 Revenue Operations and Growth Consultant
 Nairobi, Kenya.
 
-Connect on LinkedIn: [add your link]
+Connect on LinkedIn: [[add your link](https://www.linkedin.com/in/ann-amboka-amukasah)
