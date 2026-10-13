@@ -103,7 +103,7 @@ Full detail: [Client acquisition strategy](https://github.com/ann-amboka/PERFORM
 
 Full detail: [Meta Ads setup](https://github.com/ann-amboka/PERFORMANCE-MARKETING-ANALYSIS-FOR-A-B2B-SAAS-STARTUP/blob/main/Tallybridge_Meta_Ads_Setup.docx)
 
-![Meta ADS SetUp](https://example.com/image.png)
+![Meta ADS SetUp](https://github.com/ann-amboka/PERFORMANCE-MARKETING-ANALYSIS-FOR-A-B2B-SAAS-STARTUP/blob/main/Tally%20Ads%20NamesScreenshot%202026-10-12%20175718.png)
 ![Meta ADS SetUp](https://example.com/image.png)
 ![Meta ADS SetUp](https://example.com/image.png)
 ![Meta ADS SetUp](https://example.com/image.png)
