@@ -24,14 +24,14 @@ PROJECT AT A GLANCE
 
 | # | Document | What it shows | Link |
 |---|---|---|---|
-| 1 | **Landing page** | The page every ad sends traffic to | [View landing page](ADD-LIVE-LINK-HERE) |
+| 1 | **Landing page** | The page every ad sends traffic to | [View landing page](https://github.com/ann-amboka/PERFORMANCE-MARKETING-ANALYSIS-FOR-A-B2B-SAAS-STARTUP/blob/main/Landing%20page.pdf) |
 | 2 | **Client acquisition strategy** | ICP, 200-prospect plan, outreach, and channels | [Read the strategy](https://github.com/ann-amboka/PERFORMANCE-MARKETING-ANALYSIS-FOR-A-B2B-SAAS-STARTUP/blob/main/Tallybridge_Client_Acquisition_Strategy.docx) |
 | 3 | **Meta Ads setup** | Campaign objective, 5 ad sets, creatives, and budget | [Read the Meta Ads setup](https://github.com/ann-amboka/PERFORMANCE-MARKETING-ANALYSIS-FOR-A-B2B-SAAS-STARTUP/blob/main/Tallybridge_Meta_Ads_Setup.docx) |
 | 4 | **Performance analysis** | What happened, good or bad, and recommendations | [Read the analysis](https://github.com/ann-amboka/PERFORMANCE-MARKETING-ANALYSIS-FOR-A-B2B-SAAS-STARTUP/blob/main/TallyBridge%20META%20ADS%20DATASET%20.xlsx) |
 
 ## Landing page preview
 
-![Tallybridge landing page](assets/landing-page.png)
+![Tallybridge landing page](https://github.com/ann-amboka/PERFORMANCE-MARKETING-ANALYSIS-FOR-A-B2B-SAAS-STARTUP/blob/main/Landing%20page.pdf)
 
 ---
 
@@ -76,7 +76,7 @@ Tallybridge captures, codes, approves, and pays supplier invoices. It is built f
 | **Paid advertising** | Days 1-30 Meta awareness, days 31-60 retargeting, days 61-90 Google Search |
 | **Community engagement** | Finance and business communities to build credibility and find referral partners |
 
-Full detail: [Client acquisition strategy](docs/Tallybridge_Client_Acquisition_Strategy.docx)
+Full detail: [Client acquisition strategy](https://github.com/ann-amboka/PERFORMANCE-MARKETING-ANALYSIS-FOR-A-B2B-SAAS-STARTUP/blob/main/Tallybridge_Client_Acquisition_Strategy.docx)
 
 ---
 
@@ -101,7 +101,7 @@ Full detail: [Client acquisition strategy](docs/Tallybridge_Client_Acquisition_S
 - **Middle:** trust-building with testimonials and results from the 6 free design partners, which lowers friction
 - **Bottom:** value-based offers (free invoice cost audit, waived onboarding, guided 14-day trial)
 
-Full detail: [Meta Ads setup](docs/Tallybridge_Meta_Ads_Setup.docx)
+Full detail: [Meta Ads setup](https://github.com/ann-amboka/PERFORMANCE-MARKETING-ANALYSIS-FOR-A-B2B-SAAS-STARTUP/blob/main/Tallybridge_Meta_Ads_Setup.docx)
 
 ---
 
@@ -142,7 +142,7 @@ Full detail: [Meta Ads setup](docs/Tallybridge_Meta_Ads_Setup.docx)
 
 ![Charts dashboard](assets/charts-dashboard.png)
 
-The Excel workbook holds the dataset, automatic analysis, and charts: [Analysis workbook](analysis/Tallybridge_Paid_Media_Analysis_90_Days.xlsx)
+The Excel workbook holds the dataset, automatic analysis, and charts: [Analysis workbook](https://github.com/ann-amboka/PERFORMANCE-MARKETING-ANALYSIS-FOR-A-B2B-SAAS-STARTUP/blob/main/TallyBridge%20META%20ADS%20DATASET%20.xlsx)
 
 ---
 
