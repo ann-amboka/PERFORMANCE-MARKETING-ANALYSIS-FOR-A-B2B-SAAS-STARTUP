@@ -26,7 +26,7 @@ PROJECT AT A GLANCE
 |---|---|---|---|
 | 1 | **Landing page** | The page every ad sends traffic to | [View landing page](ADD-LIVE-LINK-HERE) |
 | 2 | **Client acquisition strategy** | ICP, 200-prospect plan, outreach, and channels | [Read the strategy](docs/Tallybridge_Client_Acquisition_Strategy.docx) |
-| 3 | **Meta Ads setup** | Campaign objective, 5 ad sets, creatives, and budget | [Read the Meta Ads setup]([docs/Tallybridge_Meta_Ads_Setup.docx](https://github.com/ann-amboka/PERFORMANCE-MARKETING-ANALYSIS-FOR-A-B2B-SAAS-STARTUP/commit/39c4d872040555ae795c18e3c76ae69a8b7e549d)) |
+| 3 | **Meta Ads setup** | Campaign objective, 5 ad sets, creatives, and budget | [Read the Meta Ads setup]([[docs/Tallybridge_Meta_Ads_Setup.docx](https://github.com/ann-amboka/PERFORMANCE-MARKETING-ANALYSIS-FOR-A-B2B-SAAS-STARTUP/commit/39c4d872040555ae795c18e3c76ae69a8b7e549d)](https://github.com/ann-amboka/PERFORMANCE-MARKETING-ANALYSIS-FOR-A-B2B-SAAS-STARTUP/blob/e88a11be9ff70f8298c29c392020eb61b165b597/Tallybridge_Meta_Ads_Setup.docx)) |
 | 4 | **Performance analysis** | What happened, good or bad, and recommendations | [Read the analysis](docs/Tallybridge_Performance_Analysis.docx) |
 
 ## Landing page preview
