@@ -1,6 +1,6 @@
 # PERFORMANCE-MARKETING-ANALYSIS-FOR-A-B2B-SAAS-STARTUP
 This is a detailed marketing project for a startup looking to enter the market in Q1 2027; it is a detailed strategy I developed, the setup of the META ADS, and a performance analysis
-![Company Logo]()
+![Company Logo](https://github.com/ann-amboka/PERFORMANCE-MARKETING-ANALYSIS-FOR-A-B2B-SAAS-STARTUP/blob/main/tallybridge-logo.png)
 
 <h1 align="center">Tallybridge: Go-to-Market, Meta Ads, and Performance Analysis</h1>
 
