@@ -105,7 +105,7 @@ Full detail: [Meta Ads setup](https://github.com/ann-amboka/PERFORMANCE-MARKETIN
 
 ![Meta ADS SetUp](https://github.com/ann-amboka/PERFORMANCE-MARKETING-ANALYSIS-FOR-A-B2B-SAAS-STARTUP/blob/main/Tally%20Ads%20NamesScreenshot%202026-10-12%20175718.png)
 ![Meta ADS SetUp](https://github.com/ann-amboka/PERFORMANCE-MARKETING-ANALYSIS-FOR-A-B2B-SAAS-STARTUP/blob/main/AD%201%20Screenshot%202026-10-13%20110159.png)
-![Meta ADS SetUp](https://example.com/image.png)
+![Meta ADS SetUp](https://github.com/ann-amboka/PERFORMANCE-MARKETING-ANALYSIS-FOR-A-B2B-SAAS-STARTUP/blob/main/AD%202%20Screenshot%202026-10-13%20110600.png)
 ![Meta ADS SetUp](https://example.com/image.png)
 
 ---
