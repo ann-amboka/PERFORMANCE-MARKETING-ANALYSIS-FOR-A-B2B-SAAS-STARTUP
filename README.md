@@ -150,6 +150,10 @@ Full detail: [Meta Ads setup](https://github.com/ann-amboka/PERFORMANCE-MARKETIN
 
 The Excel workbook holds the dataset, automatic analysis, and charts: [Analysis workbook](https://github.com/ann-amboka/PERFORMANCE-MARKETING-ANALYSIS-FOR-A-B2B-SAAS-STARTUP/blob/main/TallyBridge%20META%20ADS%20DATASET%20.xlsx)
 
+![Performance chart]()
+![Performance chart]()
+![Performance chart]()
+
 ---
 
 # The gap to 80 customers
