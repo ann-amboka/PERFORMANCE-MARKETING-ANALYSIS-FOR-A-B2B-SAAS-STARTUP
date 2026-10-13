@@ -1,5 +1,6 @@
 # PERFORMANCE-MARKETING-ANALYSIS-FOR-A-B2B-SAAS-STARTUP
 This is a detailed marketing project for a startup looking to enter the market in Q1 2027; it is a detailed strategy I developed, the setup of the META ADS, and a performance analysis
+![Company Logo]()
 
 <h1 align="center">Tallybridge: Go-to-Market, Meta Ads, and Performance Analysis</h1>
 
@@ -146,13 +147,11 @@ Full detail: [Meta Ads setup](https://github.com/ann-amboka/PERFORMANCE-MARKETIN
 
 ## Charts
 
-![Charts dashboard](assets/charts-dashboard.png)
-
-The Excel workbook holds the dataset, automatic analysis, and charts: [Analysis workbook](https://github.com/ann-amboka/PERFORMANCE-MARKETING-ANALYSIS-FOR-A-B2B-SAAS-STARTUP/blob/main/TallyBridge%20META%20ADS%20DATASET%20.xlsx)
-
 ![Performance chart](https://github.com/ann-amboka/PERFORMANCE-MARKETING-ANALYSIS-FOR-A-B2B-SAAS-STARTUP/blob/main/Chart1Screenshot%202026-10-13%20135831.png)
 ![Performance chart](https://github.com/ann-amboka/PERFORMANCE-MARKETING-ANALYSIS-FOR-A-B2B-SAAS-STARTUP/blob/main/Chart2Screenshot%202026-10-13%20135919.png)
-![Performance chart]()
+![Performance chart](https://github.com/ann-amboka/PERFORMANCE-MARKETING-ANALYSIS-FOR-A-B2B-SAAS-STARTUP/blob/main/Chart3Screenshot%202026-10-13%20135956.png)
+
+The Excel workbook holds the dataset, automatic analysis, and charts: [Analysis workbook](https://github.com/ann-amboka/PERFORMANCE-MARKETING-ANALYSIS-FOR-A-B2B-SAAS-STARTUP/blob/main/TallyBridge%20META%20ADS%20DATASET%20.xlsx)
 
 ---
 
