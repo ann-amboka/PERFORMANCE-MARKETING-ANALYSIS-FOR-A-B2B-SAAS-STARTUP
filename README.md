@@ -32,7 +32,7 @@ PROJECT AT A GLANCE
 
 ## Landing page preview
 
-![Tallybridge landing page](https://github.com/ann-amboka/PERFORMANCE-MARKETING-ANALYSIS-FOR-A-B2B-SAAS-STARTUP/blob/main/Landing%20page.pdf)
+![Tallybridge landing page](https://github.com/ann-amboka/PERFORMANCE-MARKETING-ANALYSIS-FOR-A-B2B-SAAS-STARTUP/blob/main/landingpagepreviewScreenshot%202026-10-13%20141122.png)
 
 ---
 
